@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=ClockDisplayTest
+comment0.text=\r\n\ The\ test\ class\ ClockDisplayTest.\r\n\r\n\ @author\ \ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ clockDisplayConstructor()
+comment1.text=\r\n\ Default\ constructor\ for\ test\ class\ ClockDisplayTest\r\n
+comment2.params=
+comment2.target=void\ timeTickTest()
+comment3.params=
+comment3.target=void\ correctSuffixAnd12HourFormat()
+comment4.params=
+comment4.target=void\ settingOfHoursAndMinutes()
+comment5.params=
+comment5.target=void\ isAlarmCreated()
+comment6.params=
+comment6.target=void\ isAlarmSetWorking()
+comment7.params=
+comment7.target=void\ isGetAlarmTimeWorking()
+comment8.params=
+comment8.target=void\ isCancelAlarmWorking()
+numComments=9
